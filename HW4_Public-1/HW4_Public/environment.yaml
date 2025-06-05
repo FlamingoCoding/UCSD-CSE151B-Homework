@@ -1,0 +1,12 @@
+name: cse151
+channels:
+  - defaults
+  - pytorch
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pytorch
+  - torchtext
+  - spacy
+  - tqdm
